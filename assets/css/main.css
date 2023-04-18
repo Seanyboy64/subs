@@ -1711,14 +1711,14 @@ width:100%;
   
 }
 .sup{
-  background-image: url("/assets/img/yes.png");
+  background-image: url("/yes.png");
   background-size: cover;
   height: 1000px;
   width: 100%;
 }
 
 .man{
-  background-image: url("/assets/img/salad.png");
+  background-image: url("/salad.png");
   background-size: cover;
   height: 1000px;
   width:100%;
