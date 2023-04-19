@@ -1508,7 +1508,7 @@ section {
   z-index:2
 } 
 .hero {
-  background-image: url("/assets/img/Give.png");
+  background-image: url("images/Give.png");
   background-size: cover;
   height: 500px;
   
