@@ -1703,22 +1703,17 @@ width:100%;
   width: 100%;
   
 }
-.man{
-  background-size: cover;
- 
-  height: 750px;
-  width: 500px;
-  
-}
+
+
 .sup{
-  background-image: url("Yes.png");
+  background-image: url("images/Yes.png");
   background-size: cover;
   height: 1000px;
   width: 100%;
 }
 
 .man{
-  background-image: url("Salad.png");
+  background-image: url("images/Salad.png");
   background-size: cover;
   height: 1000px;
   width:100%;
